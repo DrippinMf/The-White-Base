@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    flex-wrap: nowrap;
+}
+.header h1{
+    font-size: 53px;
+}
+.navbar{
+    margin-left: 50%;
+    padding: 15px;
+}
+.buttons{
+    height: 30%;
+    border: 1px transparent solid;
+    padding: 10px;
+    padding-bottom: 38px;
+}
+.buttons button{
+    background-color: transparent;
+    border: black solid 1px;
+    border-radius: 15px;
+    width: 100px;
+    height: 55px;
+}
