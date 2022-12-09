@@ -1,0 +1,187 @@
+.all{
+    position: absolute;
+    width: 100%;
+    left: 0;
+}
+.header{
+    width:100%;
+    height: 25%;
+    display: flex;
+    flex-wrap: nowrap;
+    background-color: rgb(238, 75, 43);
+    border: solid #eded00 2px;
+}
+.header h1{
+    font-size: 53px;
+    padding-bottom: 25px;
+    padding-left: 15px;
+    color:white;
+}
+.navbar{
+    margin-left: 30%;
+    padding: 15px;
+    display: inline;
+}
+.buttons{
+    padding: 30px;
+    margin: 15px;
+    border: black 2px solid;
+    border-radius: 20px;
+}
+#aboutus{
+    border: solid 1px black;
+    padding: 15px;
+    padding-left: 35px;
+}
+#login{
+    border: solid 1px black;
+    padding: 15px;
+    margin-left: 5px; 
+}
+#instructions{
+    border: solid 1px black;
+    padding: 15px;
+    padding-left: 35px;
+}
+#timeline{
+    border: solid 1px black;
+    padding: 15px;
+    padding-left: 35px;
+}
+.scrollmenu {
+    background-color: #333;
+    overflow: auto;
+    white-space: nowrap;
+    height: 50%;
+    margin-top:25px;
+    color:white;
+    width: 100%;
+}
+.scrollmenu h2{
+    margin:auto;
+}
+.scrollmenu a:hover {
+    background-color: #777;
+}
+#byarlant{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#hinu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#sazabi{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rgnu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#renight{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#pzaku{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rx78{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rex{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#mgbar{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#silver{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#mgexuni{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#moon{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#fazz{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#pgu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#aerial{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#turna{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#xi{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#zaku{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+.column {
+    float: left;
+    width: 24%;
+    table-layout: fixed;
+  }
+.row:after {
+    content: "";
+    display: table;
+    display: table-cell;
+    clear: both;
+}
+.ms{
+    margin-left: 50px;
+}
