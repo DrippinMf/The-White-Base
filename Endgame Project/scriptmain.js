@@ -1,10 +1,3 @@
-var ms = [
-	{id , grade: "oneto44" },
-	{name: Ironman , franchise: Marvel},
-	{name: Thor , franchise: Marvel},
-	{name: Superman , franchise: DC}
-];
-
-var hg =  ms.filter(function(m) {
-	return ms.grade == "oneto44";
-});
+function mouseoverfunc() {
+	document.getElementById("ms").innerHTML = <img src="./Boxarts/turna.jpg"></img>
+  }""

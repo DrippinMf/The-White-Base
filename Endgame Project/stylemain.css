@@ -8,7 +8,8 @@
     height: 25%;
     display: flex;
     flex-wrap: nowrap;
-    background-color: #777;
+    background-color: rgb(238, 75, 43);
+    border: solid #eded00 2px;
 }
 .header h1{
     font-size: 53px;
@@ -63,78 +64,108 @@
     background-color: #777;
 }
 #byarlant{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#hinu{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#rgnu{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#renight{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#pzaku{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#rx78{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#lupus{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#rex{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#mgbar{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#hgbar{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#rgod{
-    width: 350px;
-    height: 252px;
-    margin: 15px;
-    border: black solid 2px;
-}
-#sfreedom{
     width: 360px;
     height: 252px;
     margin: 15px;
     border: black solid 2px;
 }
-#zeta{
+#hinu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#sazabi{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rgnu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#renight{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#pzaku{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rx78{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#rex{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#mgbar{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#silver{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#mgexuni{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#moon{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#fazz{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#pgu{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#aerial{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#turna{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#xi{
+    width: 360px;
+    height: 252px;
+    margin: 15px;
+    border: black solid 2px;
+}
+#zaku{
     width: 360px;
     height: 252px;
     margin: 15px;
