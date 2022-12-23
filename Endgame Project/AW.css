@@ -1,0 +1,19 @@
+.main{
+    border: black solid 2px;
+    padding: 15px;
+}
+.content{
+    float: left;
+    width: 50%;
+}
+.main:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#all{
+    height: 650px;
+    width: 30%;
+    margin-left: 200px;
+    border: solid black 1px;
+}

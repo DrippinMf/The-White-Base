@@ -119,3 +119,10 @@
     width: 950px;
     height: 530px;
 }
+#ccimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
