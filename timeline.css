@@ -2,3 +2,130 @@
     width: 100%;
     height: 1450px;
 }
+.containerUC{
+    position: relative;
+    text-align: center;
+    color: cyan;
+}
+.containerFC{
+    position: relative;
+    text-align: center;
+    color: red;
+}
+.containerAC{
+    position: relative;
+    text-align: center;
+    color: orange;
+}
+.containerCE{
+    position: relative;
+    text-align: center;
+    color: blue;
+}
+.containerAW{
+    position: relative;
+    text-align: center;
+    color: rgb(233, 20, 215);
+}
+.containerAG{
+    position: relative;
+    text-align: center;
+    color: yellow;
+}
+.containerAD{
+    position: relative;
+    text-align: center;
+    color: greenyellow;
+}
+.containerPD{
+    position: relative;
+    text-align: center;
+    color: grey;
+}
+.containerAS{
+    position: relative;
+    text-align: center;
+    color: pink;
+}
+.centered{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 40px;
+    border: 1px sold black;
+    background-color: black;
+}
+#ucimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#fcimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#acimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#ceimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#awimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#agimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#adimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#pdimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#asimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+#ccimg{
+    filter: blur(2px);
+    -webkit-filter: blur(2px);
+    border: 2px solid black;
+    width: 950px;
+    height: 530px;
+}
+.all{
+    background-color: black;
+}

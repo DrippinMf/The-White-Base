@@ -1,0 +1,20 @@
+.pic{
+    display: flex;
+    width: 200x;
+    height: 150px;
+    padding: 10px;
+}
+.allfather{
+    background-image: url(https://dotandline.net/wp-content/uploads/2019/04/1dozBA0xPKU_-UR4HnZ-CCA-1210x642.jpg);
+    background-size: 100%;
+}
+.body{
+    border:solid 2px black;
+    background-color: black;
+    color:white;
+    padding: 10px;
+}
+.intro{
+    border: 2px white solid;
+    padding: 25px;
+}

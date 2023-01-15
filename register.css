@@ -1,0 +1,59 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.allfather{
+    background-image: url(https://dotandline.net/wp-content/uploads/2019/04/1dozBA0xPKU_-UR4HnZ-CCA-1210x642.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+#wapper {
+    text-align: center;
+    margin-left: 730px;
+    margin-top: 250px;
+    background-color: rgba(0, 0, 0, 0.87);
+    height: 360px;
+    width: 400px;
+}
+#wapper .heading {
+    margin-bottom: 20px;
+    padding-top: 25px;
+}
+#wapper .heading h1 {
+    font-family:'Times New Roman', Times, serif;
+    color: aliceblue;
+}
+#wapper .sign-up .name input, #wapper .sign-up .pass input, #wapper .sign-up .again input{
+    background: none;
+    outline: none;
+    border: none;
+    border-bottom: 1px solid white;
+    width:260px;
+    height: 35px;
+    margin-bottom: 20px;
+    color: aliceblue;
+    padding-top: 12px;
+}
+#wapper .sign-up .link a {
+    text-decoration: none;
+    color: red;
+}
+#wapper .sign-up .link a:hover {
+    text-decoration: underline;
+}
+#wapper .sign-up button {
+    background: rgb(0, 255, 0);
+    width: 120px;
+    height: 45px;
+    border: none;
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+    font-size: 17px;
+    margin-top: 15px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#wapper .sign-up button:hover {
+    transform: scale(1.1);
+}

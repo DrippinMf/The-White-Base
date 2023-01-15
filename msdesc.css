@@ -1,0 +1,40 @@
+.main{
+    border: black solid 2px;
+    padding: 15px;
+}
+.content{
+    float: left;
+    width: 50%;
+    color: white;
+}
+.main:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+#all{
+    height: 430px;
+    width: 65%;
+    border: solid black 1px;
+}
+.body{
+    background-color: black;
+}
+.vid{
+    background-color: black;
+}
+.allfather{
+    background-image: url(https://dotandline.net/wp-content/uploads/2019/04/1dozBA0xPKU_-UR4HnZ-CCA-1210x642.jpg);
+    background-size: 100%;
+}
+#rei{
+    height: 430px;
+    width: 50%;
+}
+#myshelf{
+    width: 300px;
+    height: 450px;
+}
+.body{
+    padding: 10px;
+}

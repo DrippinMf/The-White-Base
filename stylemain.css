@@ -8,8 +8,8 @@
     height: 25%;
     display: flex;
     flex-wrap: nowrap;
-    background-color: rgb(238, 75, 43);
-    border: solid #eded00 2px;
+    border: solid grey 2px;
+    background-color: black;
 }
 .header h1{
     font-size: 53px;
@@ -25,26 +25,26 @@
 .buttons{
     padding: 30px;
     margin: 15px;
-    border: black 2px solid;
+    border: white 2px solid;
     border-radius: 20px;
 }
 #aboutus{
-    border: solid 1px black;
+    border: solid 1px white;
     padding: 15px;
     padding-left: 35px;
 }
 #login{
-    border: solid 1px black;
+    border: solid 1px white;
     padding: 15px;
     margin-left: 5px; 
 }
 #instructions{
-    border: solid 1px black;
+    border: solid 1px white;
     padding: 15px;
     padding-left: 35px;
 }
 #timeline{
-    border: solid 1px black;
+    border: solid 1px white;
     padding: 15px;
     padding-left: 35px;
 }
@@ -184,4 +184,46 @@
 }
 .ms{
     margin-left: 50px;
+}
+.text{
+    white-space: nowrap; 
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    overflow: hidden;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+}
+.container {
+    position: relative;
+}
+.overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #008CBA;
+    overflow: hidden;
+    width: 0;
+    height: 90%;
+    transition: .5s ease;
+}
+.container:hover .overlay {
+    width: 100%;
+}
+.display{
+    margin-left: 50px;
+}
+.body{
+    background-color: blue;
+}
+.foot{
+    width: 100%;
+    background-color: black;
+}
+.bg{
+    background-image: url(https://dotandline.net/wp-content/uploads/2019/04/1dozBA0xPKU_-UR4HnZ-CCA-1210x642.jpg);
+    background-size: 100%;
 }
